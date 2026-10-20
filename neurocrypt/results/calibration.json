@@ -1,0 +1,13 @@
+{
+  "n": 200,
+  "exact": 166,
+  "precision_at_0.9": 1.0,
+  "recall_at_0.9": 0.4,
+  "claimed_at_0.9": 34,
+  "n_validate": 100,
+  "calibration": {
+    "coef_coverage": 12.660163797527382,
+    "coef_score": 0.25457419648313934,
+    "intercept": -7.682250356863399
+  }
+}

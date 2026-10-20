@@ -1,0 +1,29 @@
+[project]
+name = "neurocrypt"
+version = "0.1.0"
+description = "ML/NLP aristocrat substitution cipher solver"
+requires-python = ">=3.10"
+dependencies = [
+    "torch>=2.0",
+    "nltk>=3.8",
+    "numpy>=1.24",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+neurocrypt = "neurocrypt.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["neurocrypt*"]
+
+[tool.pytest.ini_options]
+markers = [
+    "slow: long-running tests (regression eval); excluded from the fast suite",
+]

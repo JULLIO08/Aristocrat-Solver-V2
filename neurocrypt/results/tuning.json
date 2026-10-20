@@ -1,0 +1,21 @@
+{
+  "tune_default": 56,
+  "tune_best": 57,
+  "val_default": 62,
+  "val_best": 63,
+  "n_tune": 100,
+  "n_val": 100,
+  "weights": [
+    0.32436272297868457,
+    1.8211244105996824,
+    5.514587131166192,
+    0.26818915745921057
+  ],
+  "calibration": {
+    "coef_coverage": 38.98805869475899,
+    "coef_score": -0.3155119286414844,
+    "intercept": -40.091551027063325
+  },
+  "precision_at_0.9": 0.84,
+  "claimed_at_0.9": 25
+}

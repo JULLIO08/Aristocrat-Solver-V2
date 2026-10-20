@@ -1,0 +1,281 @@
+{
+  "rows": [
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 1.130863300000783,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 22.0684017
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": false,
+      "nc_errors": 1,
+      "nc_s": 2.4984514999960084,
+      "a_exact": false,
+      "a_errors": 6,
+      "a_s": 8.079197
+    },
+    {
+      "bucket": "<60",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 0.7347294000064721,
+      "a_exact": false,
+      "a_errors": 6,
+      "a_s": 5.458166399999998
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 0.7465177999984007,
+      "a_exact": false,
+      "a_errors": 2,
+      "a_s": 14.371626299999996
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 2.6853405000001658,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 17.939400999999997
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 2.467101600006572,
+      "a_exact": false,
+      "a_errors": 42,
+      "a_s": 7.504105000000011
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 3.273665100001381,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 25.8056639
+    },
+    {
+      "bucket": "<60",
+      "nc_exact": false,
+      "nc_errors": 1,
+      "nc_s": 1.33770670001104,
+      "a_exact": false,
+      "a_errors": 10,
+      "a_s": 3.071426800000001
+    },
+    {
+      "bucket": "<60",
+      "nc_exact": false,
+      "nc_errors": 2,
+      "nc_s": 0.9528516999998828,
+      "a_exact": false,
+      "a_errors": 39,
+      "a_s": 6.264530700000003
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 0.9008813999971608,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 14.02859490000001
+    },
+    {
+      "bucket": "<60",
+      "nc_exact": false,
+      "nc_errors": 1,
+      "nc_s": 0.7604567000089446,
+      "a_exact": false,
+      "a_errors": 1,
+      "a_s": 5.722842999999994
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": false,
+      "nc_errors": 1,
+      "nc_s": 0.6971602999983588,
+      "a_exact": false,
+      "a_errors": 1,
+      "a_s": 7.042030700000003
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 2.5878767000103835,
+      "a_exact": false,
+      "a_errors": 1,
+      "a_s": 9.426323300000018
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 0.8235056000121403,
+      "a_exact": false,
+      "a_errors": 1,
+      "a_s": 17.6532751
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 2.849609800003236,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 19.376482199999998
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": false,
+      "nc_errors": 1,
+      "nc_s": 3.029146800006856,
+      "a_exact": false,
+      "a_errors": 1,
+      "a_s": 10.713466400000005
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 2.7863785999943502,
+      "a_exact": false,
+      "a_errors": 1,
+      "a_s": 8.559468099999998
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 3.216206400000374,
+      "a_exact": false,
+      "a_errors": 32,
+      "a_s": 8.310228299999988
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 1.1176967000064906,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 25.513415499999972
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 3.1191745000105584,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 12.012741899999993
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": false,
+      "nc_errors": 2,
+      "nc_s": 0.6984423999965657,
+      "a_exact": false,
+      "a_errors": 10,
+      "a_s": 6.482430999999982
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 2.6204720999958226,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 14.531887199999998
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 0.7974493999936385,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 15.782070200000016
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 1.083101700001862,
+      "a_exact": false,
+      "a_errors": 3,
+      "a_s": 22.009830799999996
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 0.8950826000072993,
+      "a_exact": false,
+      "a_errors": 2,
+      "a_s": 11.926515200000024
+    },
+    {
+      "bucket": ">120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 3.196200799997314,
+      "a_exact": false,
+      "a_errors": 60,
+      "a_s": 15.103617800000007
+    },
+    {
+      "bucket": "<60",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 1.0157442000054289,
+      "a_exact": false,
+      "a_errors": 22,
+      "a_s": 5.353487199999974
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 1.0392875999968965,
+      "a_exact": false,
+      "a_errors": 45,
+      "a_s": 10.028992700000002
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 0.9813209999992978,
+      "a_exact": true,
+      "a_errors": 0,
+      "a_s": 12.715287299999968
+    },
+    {
+      "bucket": "60-120",
+      "nc_exact": true,
+      "nc_errors": 0,
+      "nc_s": 3.420357899987721,
+      "a_exact": false,
+      "a_errors": 3,
+      "a_s": 13.227053299999971
+    }
+  ],
+  "table": "| Bucket | n | neurocrypt exact | A exact | nc median s | A median s |\n|---|---|---|---|---|---|\n| <60 | 5 | 2/5 | 0/5 | 1.0 | 5.5 |\n| 60-120 | 15 | 11/15 | 3/15 | 2.5 | 10.0 |\n| >120 | 10 | 10/10 | 7/10 | 1.9 | 18.7 |\n| all | 30 | 23/30 | 10/30 | 1.1 | 12.0 |",
+  "config": {
+    "n": 30,
+    "seed": 77,
+    "restarts": 10,
+    "iters": 4000
+  }
+}
